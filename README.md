@@ -1,6 +1,6 @@
 # Excel/CSV Splitter with Pandas
 
-This Jupyter/Colab notebook provides a Python script to split a large Excel or CSV file into two separate CSV files using pandas. By default, the first CSV contains the first 83,300 rows, and the second contains the remaining rows. The notebook is especially suited for Google Colab and will provide download links for the generated files.
+This Jupyter/Colab notebook provides a Python script to split a large Excel or CSV file into two separate CSV files using pandas. By default, the first CSV should contain the first 83,300 rows (or whatever amount of rows is specified), and the second should contain the remaining rows. The notebook is especially suited for Google Colab or ipynb file IDE for data management and will provide download links for the generated files.
 
 ## Features
 
